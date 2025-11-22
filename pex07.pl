@@ -9,7 +9,6 @@
 % The query to get the answer(s) or that there is no answer
 % ?- solve.
 
-
 day(tuesday).
 day(wednesday).
 day(thursday).
